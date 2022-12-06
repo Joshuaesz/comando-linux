@@ -1,5 +1,5 @@
 # comando-linux
-Este es un repositorio de comandos de Linux del curso de Sistemas Operativos\n
+Este es un repositorio de comandos de Linux del curso de Sistemas Operativos
 apt: paquete que permite instalar el software
 dpkg -l instalador: instalar un programa
 sudo apt install paquete: instalar un paquete de software
